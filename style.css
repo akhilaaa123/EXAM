@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Gupter", serif; 
+}
+nav{
+ background-color: transparent;
+ height: 30px;
+ display: flex;
+ justify-content: center;
+
+}
+nav ul{
+ display: flex;
+}
+nav ul li a{
+ margin: 5px;
+ color: brown;
+ text-decoration: none;
+ font-size: 20px;
+}
+.banner{
+    background-image: url(https://cdn.spectrumbusinessinsights.com/wp-content/uploads/2014/09/28213124/004C.jpg);
+   background-size: cover;
+   height: 700px;
+   width: 1520px;
+   
+
+}
+.banner h1{
+    padding-top: 300px;
+    padding-left: 200px;
+   
+}
+.banner button{
+    margin-left: 200px;
+    margin-top: 30px;
+   
+}
+
+.banner p{
+    padding-left: 200px;
+}
+h3{
+    color: rgb(12, 11, 11),goldenrod,purple;
+
+}
+.p{
+background-color: antiquewhite;
+}
